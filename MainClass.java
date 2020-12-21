@@ -1,4 +1,4 @@
-package csci1010.assign6;
+package cs3.a;
 import java.util.Scanner;
 /**
  * Main class gathers data, computes it, 
